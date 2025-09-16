@@ -17,7 +17,8 @@
 
 <br>
 
-  ![acazfernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=acazfernandes&show_icons=true&theme=dracula)
+<!-- GitHub Stats -->
+  ![acazfernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=acazfernandes\&rank_icon=github)
 
 
 <!-- Seção das tecnologias utilizadas -->
