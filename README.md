@@ -32,5 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
 </div><br/>
 
+<!-- GIF -->
 ![pixel art GIF](https://github.com/user-attachments/assets/7b74a2ca-e3e7-49c0-b376-bb134bd33d10)
 
