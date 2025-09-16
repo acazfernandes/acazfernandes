@@ -1,11 +1,12 @@
-<h2 align="left">Stats</h2>
+### Olá! Meu nomoe é Acaz! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acaz-fernandes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acazfernandess@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](wa.me/5585982216970)
+![acazfernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=acazfernandes&show_icons=true&theme=dracula)
 
-###
+## Tecnologias que eu uso no meu dia
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
+</div><br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=acazfernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acazfernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acazfernandes&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+- 🌱 Atualmente estou aprendendo ... JavaScript, ReactJS, NodeJS e Orientação a Objetos.
