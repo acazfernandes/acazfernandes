@@ -3,6 +3,15 @@
 <!-- Seção secundária -->
 🌱 Atualmente estou aprendendo ... JavaScript, ReactJS, NodeJS e Orientação a Objetos.
 
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+
+  - 💬 Tenho 30 anos, já atuo na área de tecnologia desde 2018, começando como estagiário de TI, passando para Analista de Suporte, Analista de TI, Analista de Infraestrutura. Responsável por implantação, integração e sustentação de diversas tecnologias como, Windows Server, File Server, Print Server, Active Directory, GPO, ZABBIX + GRAFANA, OCS Inventory + GLPI. Criação de documentações como SLA, Política de Segurança da Informação entre deversas outras tecnologias.
+
+  - ⚡ Hoje estou unindo meus conhecimentos e ideias para desenvolver novas habilidades para em tornar um desenvolvedor.
+</details>
+
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/acaz-fernandes/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
